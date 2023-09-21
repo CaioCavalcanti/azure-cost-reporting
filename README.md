@@ -17,4 +17,6 @@ pip -r requirements.txt
 # Generate architecture diagram
 cd docs/
 python architecture.py
+#run based on enviroment
+python architecturev1.py --enviroment test/prod
 ```
